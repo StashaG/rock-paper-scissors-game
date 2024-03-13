@@ -12,3 +12,6 @@ print()
 print("Player 1 entered: " + player_1_move)
 print()
 print("Player 2 entered: " + player_2_move)
+
+if player_1_move == player_2_move:
+  print("We have a tie!")
