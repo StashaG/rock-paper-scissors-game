@@ -21,13 +21,11 @@ elif player_1_move == "R" and player_2_move == "S":
 elif player_1_move == "S" and player_2_move == "P":
   print("Player 1 is the winner 🎊")
 elif player_1_move == "P" and player_2_move == "R":
-  print("Player 1 is the winner 🎈")
+  print("Player 1 is the winner 💃🏽")
 elif player_1_move == "S" and player_2_move == "R":
   print("Player 2 is the winner 🍾")
 elif player_1_move == "P" and player_2_move == "S":
   print("Player 2 is the winner 🙌🏾")
-elif player_1_move == "R" and player_2_move == "S":
-  print("Player 2 is the winner 💃🏽")
 elif player_1_move == "R" and player_2_move == "P":
   print("Player 2 is the winner 🎉")
 else:
